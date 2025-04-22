@@ -1,10 +1,2 @@
-## Hi there 👋
-
-
- 
-- 🔭 I’m currently working on Raadco   
-- 💬 Ask me about Front-end
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamedtkd&show_icons=true&theme=radical)
 
