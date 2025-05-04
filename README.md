@@ -4,8 +4,8 @@
 
 ---
 
-- 🌍  I'm based in Iran - shiraz 
-- ✉️  You can contact me at [ahmadihamed1381@gmail.com](mailto:ahmadihamed1381@gmail.com)
+- 🌍  I'm based in Iran - shiraz
+- ✉️  You can contact me at [hamed.tkd.1381@gmail.com](mailto:hamed.tkd.1381@gmail.com)
 - 🤝  I'm open to collaborating on React.js and Next.js project.
 
 ## 🚀 Skills
