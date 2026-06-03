@@ -1,32 +1,39 @@
-<div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there%2C+I'm+Hamed+%F0%9F%91%8B%2C+I'm+a+Front-end+developer" alt="Typing SVG" /></a>
-</div>
+# Hamed Ahmadi
 
----
+Frontend Developer focused on building production dashboards, SaaS platforms, AI-powered tools, and SEO-focused web applications with React, Next.js, TypeScript, and Tailwind CSS.
 
-- 🌍  I'm based in Iran - shiraz
-- ✉️  You can contact me at [hamed.tkd.1381@gmail.com](mailto:hamed.tkd.1381@gmail.com)
-- 🤝  I'm open to collaborating on React.js and Next.js project.
+I work on frontend systems that need clean architecture, reliable API integration, role-based access control, real-time data, form-heavy workflows, testing, and performance-focused UI.
 
-## 🚀 Skills
+## Focus Areas
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,react,next,tailwind,redux,mui)](https://skillicons.dev)
+- Production dashboards and admin panels
+- React, Next.js App Router, TypeScript
+- SSR, technical SEO, metadata, sitemap, structured data
+- API-driven UI with TanStack Query, RTK Query, and Redux Toolkit
+- Role-based and policy-based access control
+- Complex forms with React Hook Form, Zod, and Yup
+- Testing with Vitest, React Testing Library, and Playwright
+- UI animation, charts, and media workflows
 
-## 🛠️ Software Tools
+## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,vite,postman)](https://skillicons.dev)
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Shadcn UI, Material UI  
+**State & APIs:** TanStack Query, React Query, Redux Toolkit, RTK Query, REST APIs, Socket.IO  
+**Forms & Validation:** React Hook Form, Zod, Yup  
+**Testing:** Vitest, React Testing Library, Playwright  
+**UI & Media:** Framer Motion, GSAP, Three.js, Recharts, Chart.js, FFmpeg  
+**Other:** Git, Vite, Stripe UI, Wagmi
 
-## 🌐 Social Media
+## Recent Work
 
-<div>
-  <a target="_blank" href="https://www.linkedin.com/in/hamed-ahmadi1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a target="_blank" href="https://t.me/hamed_tkd">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
-  </a>
-</div>
+- AI ergonomics dashboards for Humanfit and IA Motion
+- SSR and SEO-focused public website and admin workflows for Remocapp
+- AI-assisted social media admin dashboard for WiseAdmin
+- IoT safety and monitoring dashboard features for IQM Systems
+- Web3 bridge frontend flows for Wrapto
 
----
+## Links
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamedtkd&show_icons=true&theme=radical)
+- LinkedIn: https://www.linkedin.com/in/hamed-ahmadi1/
+- GitHub: https://github.com/hamedtkd
+- Email: ahmadhamed1381@gmail.com
