@@ -36,4 +36,4 @@ I work on frontend systems that need clean architecture, reliable API integratio
 
 - LinkedIn: https://www.linkedin.com/in/hamed-ahmadi1/
 - GitHub: https://github.com/hamedtkd
-- Email: ahmadhamed1381@gmail.com
+- Email: ahmadihamed1381@gmail.com
